@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 2,
+    "name": "Honda Civic",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "35 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 550
+  },
+  {
+    "id": 3,
+    "name": "Ford Mustang",
+    "manufacture_year": 2022,
+    "number_of_seats": 4,
+    "fuel_type": "Gasoline",
+    "mileage": "25 mpg",
+    "transmission_type": "Manual",
+    "rent_per_month": 700
+  },
+  {
+    "id": 4,
+    "name": "Tesla Model 3",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Electric",
+    "mileage": "250 miles per charge",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 5,
+    "name": "Volkswagen Golf",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Diesel",
+    "mileage": "40 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 500
+  },
+  {
+    "id": 6,
+    "name": "BMW 3 Series",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 7,
+    "name": "Audi A4",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "32 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 8,
+    "name": "Ford F-150",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "20 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 9,
+    "name": "Chevrolet Tahoe",
+    "manufacture_year": 2021,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "18 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 850
+  },
+  {
+    "id": 10,
+    "name": "Hyundai Sonata",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "45 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 11,
+    "name": "Kia Sportage",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 550
+  },
+  {
+    "id": 12,
+    "name": "Nissan Rogue",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 13,
+    "name": "Jeep Wrangler",
+    "manufacture_year": 2022,
+    "number_of_seats": 4,
+    "fuel_type": "Gasoline",
+    "mileage": "22 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 14,
+    "name": "Mercedes-Benz C-Class",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 15,
+    "name": "Subaru Outback",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "26 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 16,
+    "name": "Lexus RX",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 17,
+    "name": "Mazda CX-5",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 18,
+    "name": "Volvo XC90",
+    "manufacture_year": 2022,
+    "number_of_seats": 7,
+    "fuel_type": "Hybrid",
+    "mileage": "26 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 19,
+    "name": "Acura MDX",
+    "manufacture_year": 2021,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 20,
+    "name": "Jeep Grand Cherokee",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "23 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 21,
+    "name": "BMW X5",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "24 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 22,
+    "name": "Audi Q5",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 23,
+    "name": "Chevrolet Silverado",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "18 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 24,
+    "name": "Hyundai Tucson",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "25 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 25,
+    "name": "Ford Explorer",
+    "manufacture_year": 2022,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "22 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 26,
+    "name": "Kia Telluride",
+    "manufacture_year": 2021,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "23 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 27,
+    "name": "Nissan Altima",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "32 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 28,
+    "name": "Toyota Highlander",
+    "manufacture_year": 2021,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 29,
+    "name": "Subaru Forester",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 30,
+    "name": "Lexus ES",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "44 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 31,
+    "name": "Mazda 6",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "31 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 32,
+    "name": "Volvo S60",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 33,
+    "name": "Jeep Compass",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 34,
+    "name": "Acura RDX",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 35,
+    "name": "Chevrolet Equinox",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 36,
+    "name": "BMW 5 Series",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 37,
+    "name": "Hyundai Santa Fe",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "26 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 38,
+    "name": "Nissan Sentra",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "32 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 39,
+    "name": "Toyota RAV4",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 40,
+    "name": "Volkswagen Jetta",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "34 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 41,
+    "name": "Honda CR-V",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "29 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 42,
+    "name": "Ford Escape",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "37 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 43,
+    "name": "Kia Soul",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 550
+  },
+  {
+    "id": 44,
+    "name": "Subaru Crosstrek",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 45,
+    "name": "Lexus NX",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "31 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 46,
+    "name": "Mazda CX-9",
+    "manufacture_year": 2020,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "24 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 47,
+    "name": "Volvo XC60",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "29 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 48,
+    "name": "Jeep Cherokee",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "26 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 49,
+    "name": "Audi Q7",
+    "manufacture_year": 2020,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "22 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 50,
+    "name": "Chevrolet Camaro",
+    "manufacture_year": 2021,
+    "number_of_seats": 4,
+    "fuel_type": "Gasoline",
+    "mileage": "25 mpg",
+    "transmission_type": "Manual",
+    "rent_per_month": 700
+  },
+  {
+    "id": 51,
+    "name": "Hyundai Kona",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 52,
+    "name": "Ford Ranger",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "22 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 53,
+    "name": "Kia Seltos",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "27 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 54,
+    "name": "Nissan Maxima",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  },
+  {
+    "id": 55,
+    "name": "Toyota Corolla",
+    "manufacture_year": 2021,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "32 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 56,
+    "name": "Volkswagen Passat",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "30 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 700
+  },
+  {
+    "id": 57,
+    "name": "Subaru Impreza",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "28 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 650
+  },
+  {
+    "id": 58,
+    "name": "Lexus GX",
+    "manufacture_year": 2021,
+    "number_of_seats": 7,
+    "fuel_type": "Gasoline",
+    "mileage": "18 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 800
+  },
+  {
+    "id": 59,
+    "name": "Mazda CX-3",
+    "manufacture_year": 2020,
+    "number_of_seats": 5,
+    "fuel_type": "Gasoline",
+    "mileage": "34 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 600
+  },
+  {
+    "id": 60,
+    "name": "Volvo V60",
+    "manufacture_year": 2022,
+    "number_of_seats": 5,
+    "fuel_type": "Hybrid",
+    "mileage": "31 mpg",
+    "transmission_type": "Automatic",
+    "rent_per_month": 750
+  }
+]

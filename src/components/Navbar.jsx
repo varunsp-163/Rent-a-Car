@@ -23,6 +23,7 @@ const Navbar = () => {
 
   const handleSearch = () => {
     dispatch(setSearchTerm(localSearchTerm));
+    navigate("/page/1")
   };
 
   const [clicked, setClicked] = useState(false);
